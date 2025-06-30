@@ -1,3 +1,3 @@
 import "./global.scss";
 
-export const Button = () => <button>Click Me</button>;
+export const Button = () => <button>Clicked</button>;

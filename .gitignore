@@ -5,10 +5,6 @@ node_modules/
 dist/
 build/
 *.d.ts
-*.js
-*.mjs
-*.cjs
-*.css
 .turbo/
 .cache/
 .vscode/
