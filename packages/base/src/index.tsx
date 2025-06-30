@@ -1,3 +1,2 @@
-import "./global.scss";
-
-export const Button = () => <button>Clicked</button>;
+export { Input, Textarea } from "./components/inputs";
+export { default as Button } from "./components/button";
